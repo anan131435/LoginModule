@@ -1,0 +1,2401 @@
+{
+  "phonePrefixList": [
+    {
+      "group": "A",
+      "children": [
+        {
+          "title": "阿尔巴尼亚",
+          "content": "+355",
+          "fullspell": "aerbaniya",
+          "shortspell": "aebny"
+        },
+        {
+          "title": "阿尔及利亚",
+          "content": "+213",
+          "fullspell": "aerjiliya",
+          "shortspell": "aejly"
+        },
+        {
+          "title": "阿富汗",
+          "content": "+93",
+          "fullspell": "afuhan",
+          "shortspell": "afh"
+        },
+        {
+          "title": "阿根廷",
+          "content": "+54",
+          "fullspell": "agenting",
+          "shortspell": "agt"
+        },
+        {
+          "title": "阿拉伯联合酋长国",
+          "content": "+971",
+          "fullspell": "alabolianheqiuzhangguo",
+          "shortspell": "alblhqzg"
+        },
+        {
+          "title": "阿鲁巴",
+          "content": "+297",
+          "fullspell": "aluba",
+          "shortspell": "alb"
+        },
+        {
+          "title": "阿曼",
+          "content": "+968",
+          "fullspell": "aman",
+          "shortspell": "am"
+        },
+        {
+          "title": "阿塞拜疆",
+          "content": "+994",
+          "fullspell": "asaibaijiang",
+          "shortspell": "asbj"
+        },
+        {
+          "title": "爱尔兰",
+          "content": "+353",
+          "fullspell": "aierlan",
+          "shortspell": "ael"
+        },
+        {
+          "title": "埃及",
+          "content": "+20",
+          "fullspell": "aiji",
+          "shortspell": "aj"
+        },
+        {
+          "title": "埃塞俄比亚",
+          "content": "+251",
+          "fullspell": "aisaiebiya",
+          "shortspell": "aseby"
+        },
+        {
+          "title": "爱沙尼亚",
+          "content": "+372",
+          "fullspell": "aishaniya",
+          "shortspell": "asny"
+        },
+        {
+          "title": "安道尔",
+          "content": "+376",
+          "fullspell": "andaoer",
+          "shortspell": "ade"
+        },
+        {
+          "title": "安哥拉",
+          "content": "+244",
+          "fullspell": "angela",
+          "shortspell": "agl"
+        },
+        {
+          "title": "安圭拉",
+          "content": "+1264",
+          "fullspell": "anguila",
+          "shortspell": "agl"
+        },
+        {
+          "title": "安提瓜和巴布达",
+          "content": "+1268",
+          "fullspell": "antiguahebabuda",
+          "shortspell": "atghbbd"
+        },
+        {
+          "title": "澳大利亚",
+          "content": "+61",
+          "fullspell": "aodaliya",
+          "shortspell": "adly"
+        },
+        {
+          "title": "奥地利",
+          "content": "+43",
+          "fullspell": "aodili",
+          "shortspell": "adl"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "children": [
+        {
+          "title": "巴巴多斯",
+          "content": "+1246",
+          "fullspell": "babaduosi",
+          "shortspell": "bbds"
+        },
+        {
+          "title": "巴布亚新几内亚",
+          "content": "+675",
+          "fullspell": "babuyaxinjineiya",
+          "shortspell": "bbyxjny"
+        },
+        {
+          "title": "巴哈马",
+          "content": "+1242",
+          "fullspell": "bahama",
+          "shortspell": "bhm"
+        },
+        {
+          "title": "巴基斯坦",
+          "content": "+92",
+          "fullspell": "bajisitan",
+          "shortspell": "bjst"
+        },
+        {
+          "title": "巴拉圭",
+          "content": "+595",
+          "fullspell": "balagui",
+          "shortspell": "blg"
+        },
+        {
+          "title": "巴林",
+          "content": "+973",
+          "fullspell": "balin",
+          "shortspell": "bl"
+        },
+        {
+          "title": "巴拿马",
+          "content": "+507",
+          "fullspell": "banama",
+          "shortspell": "bnm"
+        },
+        {
+          "title": "巴西",
+          "content": "+55",
+          "fullspell": "baxi",
+          "shortspell": "bx"
+        },
+        {
+          "title": "白俄罗斯",
+          "content": "+375",
+          "fullspell": "baieluosi",
+          "shortspell": "bels"
+        },
+        {
+          "title": "百慕大群岛",
+          "content": "+1441",
+          "fullspell": "baimudaqundao",
+          "shortspell": "bmdqd"
+        },
+        {
+          "title": "保加利亚",
+          "content": "+359",
+          "fullspell": "baojialiya",
+          "shortspell": "bjly"
+        },
+        {
+          "title": "贝宁",
+          "content": "+229",
+          "fullspell": "beining",
+          "shortspell": "bn"
+        },
+        {
+          "title": "比利时",
+          "content": "+32",
+          "fullspell": "bilishi",
+          "shortspell": "bls"
+        },
+        {
+          "title": "秘鲁",
+          "content": "+51",
+          "fullspell": "bilu",
+          "shortspell": "bl"
+        },
+        {
+          "title": "冰岛",
+          "content": "+354",
+          "fullspell": "bingdao",
+          "shortspell": "bd"
+        },
+        {
+          "title": "博茨瓦纳",
+          "content": "+267",
+          "fullspell": "bociwana",
+          "shortspell": "bcwn"
+        },
+        {
+          "title": "波多黎各",
+          "content": "+1787",
+          "fullspell": "boduolige",
+          "shortspell": "bdlg"
+        },
+        {
+          "title": "波兰",
+          "content": "+48",
+          "fullspell": "bolan",
+          "shortspell": "bl"
+        },
+        {
+          "title": "玻利维亚",
+          "content": "+591",
+          "fullspell": "boliweiya",
+          "shortspell": "blwy"
+        },
+        {
+          "title": "伯利兹",
+          "content": "+501",
+          "fullspell": "bolizi",
+          "shortspell": "blz"
+        },
+        {
+          "title": "波斯尼亚和黑塞哥维那",
+          "content": "+387",
+          "fullspell": "bosiniyaheheisaigeweina",
+          "shortspell": "bsnyhhsgwn"
+        },
+        {
+          "title": "不丹",
+          "content": "+975",
+          "fullspell": "budan",
+          "shortspell": "bd"
+        },
+        {
+          "title": "布基纳法索",
+          "content": "+226",
+          "fullspell": "bujinafasuo",
+          "shortspell": "bjnfs"
+        },
+        {
+          "title": "布隆迪",
+          "content": "+257",
+          "fullspell": "bulongdi",
+          "shortspell": "bld"
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "children": [
+        {
+          "title": "朝鲜",
+          "content": "+850",
+          "fullspell": "chaoxian",
+          "shortspell": "cx"
+        },
+        {
+          "title": "赤道几内亚",
+          "content": "+240",
+          "fullspell": "chidaojineiya",
+          "shortspell": "cdjny"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "children": [
+        {
+          "title": "丹麦",
+          "content": "+45",
+          "fullspell": "danmai",
+          "shortspell": "dm"
+        },
+        {
+          "title": "德国",
+          "content": "+49",
+          "fullspell": "deguo",
+          "shortspell": "dg"
+        },
+        {
+          "title": "东帝汶",
+          "content": "+670",
+          "fullspell": "dongdiwen",
+          "shortspell": "ddw"
+        },
+        {
+          "title": "多哥",
+          "content": "+228",
+          "fullspell": "duoge",
+          "shortspell": "dg"
+        },
+        {
+          "title": "多米尼加",
+          "content": "+1767",
+          "fullspell": "duominijia",
+          "shortspell": "dmnj"
+        },
+        {
+          "title": "多米尼加共和国",
+          "content": "+1809",
+          "fullspell": "duominijiagongheguo",
+          "shortspell": "dmnjghg"
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "children": [
+        {
+          "title": "厄瓜多尔",
+          "content": "+593",
+          "fullspell": "eguaduoer",
+          "shortspell": "egde"
+        },
+        {
+          "title": "厄立特里亚",
+          "content": "+291",
+          "fullspell": "eliteliya",
+          "shortspell": "eltly"
+        },
+        {
+          "title": "俄罗斯",
+          "content": "+7",
+          "fullspell": "eluosi",
+          "shortspell": "els"
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "children": [
+        {
+          "title": "法国",
+          "content": "+33",
+          "fullspell": "faguo",
+          "shortspell": "fg"
+        },
+        {
+          "title": "法罗群岛",
+          "content": "+298",
+          "fullspell": "faluoqundao",
+          "shortspell": "flqd"
+        },
+        {
+          "title": "法属波利尼西亚",
+          "content": "+689",
+          "fullspell": "fashubolinixiya",
+          "shortspell": "fsblnxy"
+        },
+        {
+          "title": "法属圭亚那",
+          "content": "+594",
+          "fullspell": "fashuguiyana",
+          "shortspell": "fsgyn"
+        },
+        {
+          "title": "斐济",
+          "content": "+679",
+          "fullspell": "feiji",
+          "shortspell": "fj"
+        },
+        {
+          "title": "菲律宾",
+          "content": "+63",
+          "fullspell": "feilvbin",
+          "shortspell": "flb"
+        },
+        {
+          "title": "芬兰",
+          "content": "+358",
+          "fullspell": "fenlan",
+          "shortspell": "fl"
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "children": [
+        {
+          "title": "冈比亚",
+          "content": "+220",
+          "fullspell": "gangbiya",
+          "shortspell": "gby"
+        },
+        {
+          "title": "刚果共和国",
+          "content": "+242",
+          "fullspell": "gangguogongheguo",
+          "shortspell": "ggghg"
+        },
+        {
+          "title": "刚果民主共和国",
+          "content": "+243",
+          "fullspell": "gangguominzhugongheguo",
+          "shortspell": "ggmzghg"
+        },
+        {
+          "title": "格林纳达",
+          "content": "+1473",
+          "fullspell": "gelinnada",
+          "shortspell": "glnd"
+        },
+        {
+          "title": "格陵兰岛",
+          "content": "+299",
+          "fullspell": "gelinglandao",
+          "shortspell": "glld"
+        },
+        {
+          "title": "格鲁吉亚",
+          "content": "+995",
+          "fullspell": "gelujiya",
+          "shortspell": "gljy"
+        },
+        {
+          "title": "哥伦比亚",
+          "content": "+57",
+          "fullspell": "gelunbiya",
+          "shortspell": "glby"
+        },
+        {
+          "title": "哥斯达黎加",
+          "content": "+506",
+          "fullspell": "gesidalijia",
+          "shortspell": "gsdlj"
+        },
+        {
+          "title": "古巴",
+          "content": "+53",
+          "fullspell": "guba",
+          "shortspell": "gb"
+        },
+        {
+          "title": "瓜德罗普岛",
+          "content": "+590",
+          "fullspell": "guadeluopudao",
+          "shortspell": "gdlpd"
+        },
+        {
+          "title": "瓜地马拉",
+          "content": "+502",
+          "fullspell": "guadimala",
+          "shortspell": "gdml"
+        },
+        {
+          "title": "关岛",
+          "content": "+1671",
+          "fullspell": "guandao",
+          "shortspell": "gd"
+        },
+        {
+          "title": "圭亚那",
+          "content": "+592",
+          "fullspell": "guiyana",
+          "shortspell": "gyn"
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "children": [
+        {
+          "title": "哈萨克斯坦",
+          "content": "+7",
+          "fullspell": "hasakesitan",
+          "shortspell": "hskst"
+        },
+        {
+          "title": "海地",
+          "content": "+509",
+          "fullspell": "haidi",
+          "shortspell": "hd"
+        },
+        {
+          "title": "韩国",
+          "content": "+82",
+          "fullspell": "hanguo",
+          "shortspell": "hg"
+        },
+        {
+          "title": "荷兰",
+          "content": "+31",
+          "fullspell": "helan",
+          "shortspell": "hl"
+        },
+        {
+          "title": "荷兰加勒比",
+          "content": "+599",
+          "fullspell": "helanjialebi",
+          "shortspell": "hljlb"
+        },
+        {
+          "title": "黑山",
+          "content": "+382",
+          "fullspell": "heishan",
+          "shortspell": "hs"
+        },
+        {
+          "title": "洪都拉斯",
+          "content": "+504",
+          "fullspell": "hongdulasi",
+          "shortspell": "hdls"
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "children": [
+        {
+          "title": "吉布提",
+          "content": "+253",
+          "fullspell": "jibuti",
+          "shortspell": "jbt"
+        },
+        {
+          "title": "吉尔吉斯斯坦",
+          "content": "+996",
+          "fullspell": "jierjisisitan",
+          "shortspell": "jejsst"
+        },
+        {
+          "title": "基里巴斯",
+          "content": "+686",
+          "fullspell": "jilibasi",
+          "shortspell": "jlbs"
+        },
+        {
+          "title": "几内亚",
+          "content": "+224",
+          "fullspell": "jineiya",
+          "shortspell": "jny"
+        },
+        {
+          "title": "几内亚比绍共和国",
+          "content": "+245",
+          "fullspell": "jineiyabishaogongheguo",
+          "shortspell": "jnybsghg"
+        },
+        {
+          "title": "加纳",
+          "content": "+233",
+          "fullspell": "jiana",
+          "shortspell": "jn"
+        },
+        {
+          "title": "加拿大",
+          "content": "+1",
+          "fullspell": "jianada",
+          "shortspell": "jnd"
+        },
+        {
+          "title": "加蓬",
+          "content": "+241",
+          "fullspell": "jiapeng",
+          "shortspell": "jp"
+        },
+        {
+          "title": "柬埔寨",
+          "content": "+855",
+          "fullspell": "jianpuzhai",
+          "shortspell": "jpz"
+        },
+        {
+          "title": "捷克",
+          "content": "+420",
+          "fullspell": "jieke",
+          "shortspell": "jk"
+        },
+        {
+          "title": "津巴布韦",
+          "content": "+263",
+          "fullspell": "jinbabuwei",
+          "shortspell": "jbbw"
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "children": [
+        {
+          "title": "喀麦隆",
+          "content": "+237",
+          "fullspell": "kamailong",
+          "shortspell": "kml"
+        },
+        {
+          "title": "卡塔尔",
+          "content": "+974",
+          "fullspell": "kataer",
+          "shortspell": "kte"
+        },
+        {
+          "title": "开曼群岛",
+          "content": "+1345",
+          "fullspell": "kaimanqundao",
+          "shortspell": "kmqd"
+        },
+        {
+          "title": "开普",
+          "content": "+238",
+          "fullspell": "kaipu",
+          "shortspell": "kp"
+        },
+        {
+          "title": "克罗地亚",
+          "content": "+385",
+          "fullspell": "keluodiya",
+          "shortspell": "kldy"
+        },
+        {
+          "title": "科摩罗",
+          "content": "+269",
+          "fullspell": "kemoluo",
+          "shortspell": "kml"
+        },
+        {
+          "title": "科威特",
+          "content": "+965",
+          "fullspell": "keweite",
+          "shortspell": "kwt"
+        },
+        {
+          "title": "肯尼亚",
+          "content": "+254",
+          "fullspell": "kenniya",
+          "shortspell": "kny"
+        },
+        {
+          "title": "库克群岛",
+          "content": "+682",
+          "fullspell": "kukequndao",
+          "shortspell": "kkqd"
+        },
+        {
+          "title": "库拉索",
+          "content": "+599",
+          "fullspell": "kulasuo",
+          "shortspell": "kls"
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "children": [
+        {
+          "title": "拉脱维亚",
+          "content": "+371",
+          "fullspell": "latuoweiya",
+          "shortspell": "ltwy"
+        },
+        {
+          "title": "莱索托",
+          "content": "+266",
+          "fullspell": "laisuotuo",
+          "shortspell": "lst"
+        },
+        {
+          "title": "老挝",
+          "content": "+856",
+          "fullspell": "laowo",
+          "shortspell": "lw"
+        },
+        {
+          "title": "黎巴嫩",
+          "content": "+961",
+          "fullspell": "libanen",
+          "shortspell": "lbn"
+        },
+        {
+          "title": "利比里亚",
+          "content": "+231",
+          "fullspell": "libiliya",
+          "shortspell": "lbly"
+        },
+        {
+          "title": "利比亚",
+          "content": "+218",
+          "fullspell": "libiya",
+          "shortspell": "lby"
+        },
+        {
+          "title": "立陶宛",
+          "content": "+370",
+          "fullspell": "litaowan",
+          "shortspell": "ltw"
+        },
+        {
+          "title": "列支敦士登",
+          "content": "+423",
+          "fullspell": "liezhidunshideng",
+          "shortspell": "lzdsd"
+        },
+        {
+          "title": "留尼汪",
+          "content": "+262",
+          "fullspell": "liuniwang",
+          "shortspell": "lnw"
+        },
+        {
+          "title": "卢森堡",
+          "content": "+352",
+          "fullspell": "lusenbao",
+          "shortspell": "lsb"
+        },
+        {
+          "title": "卢旺达",
+          "content": "+250",
+          "fullspell": "luwangda",
+          "shortspell": "lwd"
+        },
+        {
+          "title": "罗马尼亚",
+          "content": "+40",
+          "fullspell": "luomaniya",
+          "shortspell": "lmny"
+        }
+      ]
+    },
+    {
+      "group": "M",
+      "children": [
+        {
+          "title": "马达加斯加",
+          "content": "+261",
+          "fullspell": "madajiasijia",
+          "shortspell": "mdjsj"
+        },
+        {
+          "title": "马尔代夫",
+          "content": "+960",
+          "fullspell": "maerdaifu",
+          "shortspell": "medf"
+        },
+        {
+          "title": "马耳他",
+          "content": "+356",
+          "fullspell": "maerta",
+          "shortspell": "met"
+        },
+        {
+          "title": "马拉维",
+          "content": "+265",
+          "fullspell": "malawei",
+          "shortspell": "mlw"
+        },
+        {
+          "title": "马来西亚",
+          "content": "+60",
+          "fullspell": "malaixiya",
+          "shortspell": "mlxy"
+        },
+        {
+          "title": "马里",
+          "content": "+223",
+          "fullspell": "mali",
+          "shortspell": "ml"
+        },
+        {
+          "title": "马其顿",
+          "content": "+389",
+          "fullspell": "maqidun",
+          "shortspell": "mqd"
+        },
+        {
+          "title": "马绍尔群岛",
+          "content": "+692",
+          "fullspell": "mashaoerqundao",
+          "shortspell": "mseqd"
+        },
+        {
+          "title": "马约特",
+          "content": "+269",
+          "fullspell": "mayuete",
+          "shortspell": "myt"
+        },
+        {
+          "title": "毛里求斯",
+          "content": "+230",
+          "fullspell": "maoliqiusi",
+          "shortspell": "mlqs"
+        },
+        {
+          "title": "毛里塔尼亚",
+          "content": "+222",
+          "fullspell": "maolitaniya",
+          "shortspell": "mltny"
+        },
+        {
+          "title": "美国",
+          "content": "+1",
+          "fullspell": "meiguo",
+          "shortspell": "mg"
+        },
+        {
+          "title": "美属萨摩亚",
+          "content": "+1684",
+          "fullspell": "meishusamoya",
+          "shortspell": "mssmy"
+        },
+        {
+          "title": "蒙古",
+          "content": "+976",
+          "fullspell": "menggu",
+          "shortspell": "mg"
+        },
+        {
+          "title": "孟加拉国",
+          "content": "+880",
+          "fullspell": "mengjialaguo",
+          "shortspell": "mjlg"
+        },
+        {
+          "title": "蒙特塞拉特岛",
+          "content": "+1664",
+          "fullspell": "mengtesailatedao",
+          "shortspell": "mtsltd"
+        },
+        {
+          "title": "密克罗尼西亚",
+          "content": "+691",
+          "fullspell": "mikeluonixiya",
+          "shortspell": "mklnxy"
+        },
+        {
+          "title": "缅甸",
+          "content": "+95",
+          "fullspell": "miandian",
+          "shortspell": "md"
+        },
+        {
+          "title": "摩尔多瓦",
+          "content": "+373",
+          "fullspell": "moerduowa",
+          "shortspell": "medw"
+        },
+        {
+          "title": "摩洛哥",
+          "content": "+212",
+          "fullspell": "moluoge",
+          "shortspell": "mlg"
+        },
+        {
+          "title": "摩纳哥",
+          "content": "+377",
+          "fullspell": "monage",
+          "shortspell": "mng"
+        },
+        {
+          "title": "莫桑比克",
+          "content": "+258",
+          "fullspell": "mosangbike",
+          "shortspell": "msbk"
+        },
+        {
+          "title": "墨西哥",
+          "content": "+52",
+          "fullspell": "moxige",
+          "shortspell": "mxg"
+        }
+      ]
+    },
+    {
+      "group": "N",
+      "children": [
+        {
+          "title": "拿鲁岛",
+          "content": "+674",
+          "fullspell": "naludao",
+          "shortspell": "nld"
+        },
+        {
+          "title": "纳米比亚",
+          "content": "+264",
+          "fullspell": "namibiya",
+          "shortspell": "nmby"
+        },
+        {
+          "title": "南非",
+          "content": "+27",
+          "fullspell": "nanfei",
+          "shortspell": "nf"
+        },
+        {
+          "title": "尼泊尔",
+          "content": "+977",
+          "fullspell": "niboer",
+          "shortspell": "nbe"
+        },
+        {
+          "title": "尼加拉瓜",
+          "content": "+505",
+          "fullspell": "nijialagua",
+          "shortspell": "njlg"
+        },
+        {
+          "title": "尼日尔",
+          "content": "+227",
+          "fullspell": "nirier",
+          "shortspell": "nre"
+        },
+        {
+          "title": "尼日利亚",
+          "content": "+234",
+          "fullspell": "niriliya",
+          "shortspell": "nrly"
+        },
+        {
+          "title": "挪威",
+          "content": "+47",
+          "fullspell": "nuowei",
+          "shortspell": "nw"
+        }
+      ]
+    },
+    {
+      "group": "P",
+      "children": [
+        {
+          "title": "帕劳",
+          "content": "+680",
+          "fullspell": "palao",
+          "shortspell": "pl"
+        },
+        {
+          "title": "葡萄牙",
+          "content": "+351",
+          "fullspell": "putaoya",
+          "shortspell": "pty"
+        }
+      ]
+    },
+    {
+      "group": "R",
+      "children": [
+        {
+          "title": "日本",
+          "content": "+81",
+          "fullspell": "riben",
+          "shortspell": "rb"
+        },
+        {
+          "title": "瑞典",
+          "content": "+46",
+          "fullspell": "ruidian",
+          "shortspell": "rd"
+        },
+        {
+          "title": "瑞士",
+          "content": "+41",
+          "fullspell": "ruishi",
+          "shortspell": "rs"
+        }
+      ]
+    },
+    {
+      "group": "S",
+      "children": [
+        {
+          "title": "萨尔瓦多",
+          "content": "+503",
+          "fullspell": "saerwaduo",
+          "shortspell": "sewd"
+        },
+        {
+          "title": "萨摩亚",
+          "content": "+685",
+          "fullspell": "samoya",
+          "shortspell": "smy"
+        },
+        {
+          "title": "塞尔维亚",
+          "content": "+381",
+          "fullspell": "saierweiya",
+          "shortspell": "sewy"
+        },
+        {
+          "title": "塞拉利昂",
+          "content": "+232",
+          "fullspell": "sailaliang",
+          "shortspell": "slla"
+        },
+        {
+          "title": "塞内加尔",
+          "content": "+221",
+          "fullspell": "saineijiaer",
+          "shortspell": "snje"
+        },
+        {
+          "title": "塞浦路斯",
+          "content": "+357",
+          "fullspell": "saipulusi",
+          "shortspell": "spls"
+        },
+        {
+          "title": "塞舌尔",
+          "content": "+248",
+          "fullspell": "saisheer",
+          "shortspell": "sse"
+        },
+        {
+          "title": "沙特阿拉伯",
+          "content": "+966",
+          "fullspell": "shatealabo",
+          "shortspell": "stalb"
+        },
+        {
+          "title": "圣彼埃尔和密克隆岛",
+          "content": "+508",
+          "fullspell": "shengbiaierhemikelongdao",
+          "shortspell": "sbaehmkld"
+        },
+        {
+          "title": "圣多美和普林西比",
+          "content": "+239",
+          "fullspell": "shengduomeihepulinxibi",
+          "shortspell": "sdmhplxb"
+        },
+        {
+          "title": "圣基茨和尼维斯",
+          "content": "+1869",
+          "fullspell": "shengjiciheniweisi",
+          "shortspell": "sjchnws"
+        },
+        {
+          "title": "圣露西亚",
+          "content": "+1758",
+          "fullspell": "shengluxiya",
+          "shortspell": "slxy"
+        },
+        {
+          "title": "圣马力诺",
+          "content": "+378",
+          "fullspell": "shengmalinuo",
+          "shortspell": "smln"
+        },
+        {
+          "title": "圣文森特和格林纳丁斯",
+          "content": "+1784",
+          "fullspell": "shengwensentehegelinnadingsi",
+          "shortspell": "swsthglnds"
+        },
+        {
+          "title": "斯里兰卡",
+          "content": "+94",
+          "fullspell": "sililanka",
+          "shortspell": "sllk"
+        },
+        {
+          "title": "斯洛伐克",
+          "content": "+421",
+          "fullspell": "siluofake",
+          "shortspell": "slfk"
+        },
+        {
+          "title": "斯洛文尼亚",
+          "content": "+386",
+          "fullspell": "siluowenniya",
+          "shortspell": "slwny"
+        },
+        {
+          "title": "斯威士兰",
+          "content": "+268",
+          "fullspell": "siweishilan",
+          "shortspell": "swsl"
+        },
+        {
+          "title": "苏丹",
+          "content": "+249",
+          "fullspell": "sudan",
+          "shortspell": "sd"
+        },
+        {
+          "title": "苏里南",
+          "content": "+597",
+          "fullspell": "sulinan",
+          "shortspell": "sln"
+        },
+        {
+          "title": "所罗门群岛",
+          "content": "+677",
+          "fullspell": "suoluomenqundao",
+          "shortspell": "slmqd"
+        },
+        {
+          "title": "索马里",
+          "content": "+252",
+          "fullspell": "suomali",
+          "shortspell": "sml"
+        }
+      ]
+    },
+    {
+      "group": "T",
+      "children": [
+        {
+          "title": "塔吉克斯坦",
+          "content": "+992",
+          "fullspell": "tajikesitan",
+          "shortspell": "tjkst"
+        },
+        {
+          "title": "泰国",
+          "content": "+66",
+          "fullspell": "taiguo",
+          "shortspell": "tg"
+        },
+        {
+          "title": "坦桑尼亚",
+          "content": "+255",
+          "fullspell": "tansangniya",
+          "shortspell": "tsny"
+        },
+        {
+          "title": "汤加",
+          "content": "+676",
+          "fullspell": "tangjia",
+          "shortspell": "tj"
+        },
+        {
+          "title": "特克斯和凯科斯群岛",
+          "content": "+1649",
+          "fullspell": "tekesihekaikesiqundao",
+          "shortspell": "tkshkksqd"
+        },
+        {
+          "title": "特立尼达和多巴哥",
+          "content": "+1868",
+          "fullspell": "telinidaheduobage",
+          "shortspell": "tlndhdbg"
+        },
+        {
+          "title": "土耳其",
+          "content": "+90",
+          "fullspell": "tuerqi",
+          "shortspell": "teq"
+        },
+        {
+          "title": "土库曼斯坦",
+          "content": "+993",
+          "fullspell": "tukumansitan",
+          "shortspell": "tkmst"
+        },
+        {
+          "title": "突尼斯",
+          "content": "+216",
+          "fullspell": "tunisi",
+          "shortspell": "tns"
+        }
+      ]
+    },
+    {
+      "group": "W",
+      "children": [
+        {
+          "title": "瓦努阿图",
+          "content": "+678",
+          "fullspell": "wanuatu",
+          "shortspell": "wnat"
+        },
+        {
+          "title": "委内瑞拉",
+          "content": "+58",
+          "fullspell": "weineiruila",
+          "shortspell": "wnrl"
+        },
+        {
+          "title": "文莱",
+          "content": "+673",
+          "fullspell": "wenlai",
+          "shortspell": "wl"
+        },
+        {
+          "title": "乌干达",
+          "content": "+256",
+          "fullspell": "wuganda",
+          "shortspell": "wgd"
+        },
+        {
+          "title": "乌克兰",
+          "content": "+380",
+          "fullspell": "wukelan",
+          "shortspell": "wkl"
+        },
+        {
+          "title": "乌拉圭",
+          "content": "+598",
+          "fullspell": "wulagui",
+          "shortspell": "wlg"
+        },
+        {
+          "title": "乌兹别克斯坦",
+          "content": "+998",
+          "fullspell": "wuzibiekesitan",
+          "shortspell": "wzbkst"
+        }
+      ]
+    },
+    {
+      "group": "X",
+      "children": [
+        {
+          "title": "西班牙",
+          "content": "+34",
+          "fullspell": "xibanya",
+          "shortspell": "xby"
+        },
+        {
+          "title": "希腊",
+          "content": "+30",
+          "fullspell": "xila",
+          "shortspell": "xl"
+        },
+        {
+          "title": "象牙海岸",
+          "content": "+225",
+          "fullspell": "xiangyahaian",
+          "shortspell": "xyha"
+        },
+        {
+          "title": "新加坡",
+          "content": "+65",
+          "fullspell": "xinjiapo",
+          "shortspell": "xjp"
+        },
+        {
+          "title": "新喀里多尼亚",
+          "content": "+687",
+          "fullspell": "xinkaliduoniya",
+          "shortspell": "xkldny"
+        },
+        {
+          "title": "新西兰",
+          "content": "+64",
+          "fullspell": "xinxilan",
+          "shortspell": "xxl"
+        },
+        {
+          "title": "匈牙利",
+          "content": "+36",
+          "fullspell": "xiongyali",
+          "shortspell": "xyl"
+        },
+        {
+          "title": "叙利亚",
+          "content": "+963",
+          "fullspell": "xuliya",
+          "shortspell": "xly"
+        }
+      ]
+    },
+    {
+      "group": "Y",
+      "children": [
+        {
+          "title": "牙买加",
+          "content": "+1876",
+          "fullspell": "yamaijia",
+          "shortspell": "ymj"
+        },
+        {
+          "title": "亚美尼亚",
+          "content": "+374",
+          "fullspell": "yameiniya",
+          "shortspell": "ymny"
+        },
+        {
+          "title": "也门",
+          "content": "+967",
+          "fullspell": "yemen",
+          "shortspell": "ym"
+        },
+        {
+          "title": "意大利",
+          "content": "+39",
+          "fullspell": "yidali",
+          "shortspell": "ydl"
+        },
+        {
+          "title": "伊拉克",
+          "content": "+964",
+          "fullspell": "yilake",
+          "shortspell": "ylk"
+        },
+        {
+          "title": "伊朗",
+          "content": "+98",
+          "fullspell": "yilang",
+          "shortspell": "yl"
+        },
+        {
+          "title": "以色列",
+          "content": "+972",
+          "fullspell": "yiselie",
+          "shortspell": "ysl"
+        },
+        {
+          "title": "印度",
+          "content": "+91",
+          "fullspell": "yindu",
+          "shortspell": "yd"
+        },
+        {
+          "title": "印度尼西亚",
+          "content": "+62",
+          "fullspell": "yindunixiya",
+          "shortspell": "ydnxy"
+        },
+        {
+          "title": "英国",
+          "content": "+44",
+          "fullspell": "yingguo",
+          "shortspell": "yg"
+        },
+        {
+          "title": "英属处女群岛",
+          "content": "+1284",
+          "fullspell": "yingshuchunvqundao",
+          "shortspell": "yscnqd"
+        },
+        {
+          "title": "约旦",
+          "content": "+962",
+          "fullspell": "yuedan",
+          "shortspell": "yd"
+        },
+        {
+          "title": "越南",
+          "content": "+84",
+          "fullspell": "yuenan",
+          "shortspell": "yn"
+        }
+      ]
+    },
+    {
+      "group": "Z",
+      "children": [
+        {
+          "title": "赞比亚",
+          "content": "+260",
+          "fullspell": "zanbiya",
+          "shortspell": "zby"
+        },
+        {
+          "title": "乍得",
+          "content": "+235",
+          "fullspell": "zhade",
+          "shortspell": "zd"
+        },
+        {
+          "title": "直布罗陀",
+          "content": "+350",
+          "fullspell": "zhibuluotuo",
+          "shortspell": "zblt"
+        },
+        {
+          "title": "智利",
+          "content": "+56",
+          "fullspell": "zhili",
+          "shortspell": "zl"
+        },
+        {
+          "title": "中非共和国",
+          "content": "+236",
+          "fullspell": "zhongfeigongheguo",
+          "shortspell": "zfghg"
+        },
+        {
+          "title": "中国",
+          "content": "+86",
+          "fullspell": "zhongguo",
+          "shortspell": "zg"
+        },
+        {
+          "title": "中国澳门",
+          "content": "+853",
+          "fullspell": "zhongguoaomen",
+          "shortspell": "zgam"
+        },
+        {
+          "title": "中国台湾",
+          "content": "+886",
+          "fullspell": "zhongguotaiwan",
+          "shortspell": "zgtw"
+        },
+        {
+          "title": "中国香港",
+          "content": "+852",
+          "fullspell": "zhongguoxianggang",
+          "shortspell": "zgxg"
+        }
+      ]
+    }
+  ],
+  "phonePrefixListEn": [
+    {
+      "group": "A",
+      "children": [
+        {
+          "title": "Afghanistan",
+          "content": "+93"
+        },
+        {
+          "title": "Albania",
+          "content": "+355"
+        },
+        {
+          "title": "Algeria",
+          "content": "+213"
+        },
+        {
+          "title": "American Samoa",
+          "content": "+1684"
+        },
+        {
+          "title": "Andorra",
+          "content": "+376"
+        },
+        {
+          "title": "Angola",
+          "content": "+244"
+        },
+        {
+          "title": "Anguilla",
+          "content": "+1264"
+        },
+        {
+          "title": "Antigua and Barbuda",
+          "content": "+1268"
+        },
+        {
+          "title": "Argentina",
+          "content": "+54"
+        },
+        {
+          "title": "Armenia",
+          "content": "+374"
+        },
+        {
+          "title": "Aruba",
+          "content": "+297"
+        },
+        {
+          "title": "Australia",
+          "content": "+61"
+        },
+        {
+          "title": "Austria",
+          "content": "+43"
+        },
+        {
+          "title": "Azerbaijan",
+          "content": "+994"
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "children": [
+        {
+          "title": "Bahamas",
+          "content": "+1242"
+        },
+        {
+          "title": "Bahrain",
+          "content": "+973"
+        },
+        {
+          "title": "Bangladesh",
+          "content": "+880"
+        },
+        {
+          "title": "Barbados",
+          "content": "+1246"
+        },
+        {
+          "title": "Belarus",
+          "content": "+375"
+        },
+        {
+          "title": "Belgium",
+          "content": "+32"
+        },
+        {
+          "title": "Belize",
+          "content": "+501"
+        },
+        {
+          "title": "Benin",
+          "content": "+229"
+        },
+        {
+          "title": "Bermuda",
+          "content": "+1441"
+        },
+        {
+          "title": "Bhutan",
+          "content": "+975"
+        },
+        {
+          "title": "Bolivia",
+          "content": "+591"
+        },
+        {
+          "title": "Bosniaand Herzegovina",
+          "content": "+387"
+        },
+        {
+          "title": "Botswana",
+          "content": "+267"
+        },
+        {
+          "title": "Brazil",
+          "content": "+55"
+        },
+        {
+          "title": "Brunei",
+          "content": "+673"
+        },
+        {
+          "title": "Bulgaria",
+          "content": "+359"
+        },
+        {
+          "title": "Burkina Faso",
+          "content": "+226"
+        },
+        {
+          "title": "Burundi",
+          "content": "+257"
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "children": [
+        {
+          "title": "Cambodia",
+          "content": "+855"
+        },
+        {
+          "title": "Cameroon",
+          "content": "+237"
+        },
+        {
+          "title": "Canada",
+          "content": "+1"
+        },
+        {
+          "title": "Cape Verde",
+          "content": "+238"
+        },
+        {
+          "title": "Caribisch Nederland",
+          "content": "+599"
+        },
+        {
+          "title": "Cayman Islands",
+          "content": "+1345"
+        },
+        {
+          "title": "Central African Republic",
+          "content": "+236"
+        },
+        {
+          "title": "Chad",
+          "content": "+235"
+        },
+        {
+          "title": "Chile",
+          "content": "+56"
+        },
+        {
+          "title": "China",
+          "content": "+86"
+        },
+        {
+          "title": "Colombia",
+          "content": "+57"
+        },
+        {
+          "title": "Comoros",
+          "content": "+269"
+        },
+        {
+          "title": "Cook Islands",
+          "content": "+682"
+        },
+        {
+          "title": "CostaRica",
+          "content": "+506"
+        },
+        {
+          "title": "Croatia",
+          "content": "+385"
+        },
+        {
+          "title": "Cuba",
+          "content": "+53"
+        },
+        {
+          "title": "Curacao",
+          "content": "+599"
+        },
+        {
+          "title": "Cyprus",
+          "content": "+357"
+        },
+        {
+          "title": "Czech",
+          "content": "+420"
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "children": [
+        {
+          "title": "Democratic Republic of theCongo",
+          "content": "+243"
+        },
+        {
+          "title": "Denmark",
+          "content": "+45"
+        },
+        {
+          "title": "Djibouti",
+          "content": "+253"
+        },
+        {
+          "title": "Dominica",
+          "content": "+1767"
+        },
+        {
+          "title": "dominican republic",
+          "content": "+1809"
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "children": [
+        {
+          "title": "East Timor",
+          "content": "+670"
+        },
+        {
+          "title": "Ecuador",
+          "content": "+593"
+        },
+        {
+          "title": "Egypt",
+          "content": "+20"
+        },
+        {
+          "title": "ElSalvador",
+          "content": "+503"
+        },
+        {
+          "title": "Equatorial Guinea",
+          "content": "+240"
+        },
+        {
+          "title": "Eritrea",
+          "content": "+291"
+        },
+        {
+          "title": "Estonia",
+          "content": "+372"
+        },
+        {
+          "title": "Ethiopia",
+          "content": "+251"
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "children": [
+        {
+          "title": "Faroe Islands",
+          "content": "+298"
+        },
+        {
+          "title": "Fiji",
+          "content": "+679"
+        },
+        {
+          "title": "Finland",
+          "content": "+358"
+        },
+        {
+          "title": "France",
+          "content": "+33"
+        },
+        {
+          "title": "French Guiana",
+          "content": "+594"
+        },
+        {
+          "title": "French Polynesia",
+          "content": "+689"
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "children": [
+        {
+          "title": "Gabon",
+          "content": "+241"
+        },
+        {
+          "title": "Gambia",
+          "content": "+220"
+        },
+        {
+          "title": "Georgia",
+          "content": "+995"
+        },
+        {
+          "title": "Germany",
+          "content": "+49"
+        },
+        {
+          "title": "Ghana",
+          "content": "+233"
+        },
+        {
+          "title": "Gibraltar",
+          "content": "+350"
+        },
+        {
+          "title": "Greece",
+          "content": "+30"
+        },
+        {
+          "title": "Greenland",
+          "content": "+299"
+        },
+        {
+          "title": "Grenada",
+          "content": "+1473"
+        },
+        {
+          "title": "Guadeloupe",
+          "content": "+590"
+        },
+        {
+          "title": "Guam",
+          "content": "+1671"
+        },
+        {
+          "title": "Guatemala",
+          "content": "+502"
+        },
+        {
+          "title": "Guinea",
+          "content": "+224"
+        },
+        {
+          "title": "Guinea-Bissau",
+          "content": "+245"
+        },
+        {
+          "title": "Guyana",
+          "content": "+592"
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "children": [
+        {
+          "title": "Haiti",
+          "content": "+509"
+        },
+        {
+          "title": "Honduras",
+          "content": "+504"
+        },
+        {
+          "title": "Hong Kong",
+          "content": "+852"
+        },
+        {
+          "title": "Hungary",
+          "content": "+36"
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "children": [
+        {
+          "title": "Iceland",
+          "content": "+354"
+        },
+        {
+          "title": "India",
+          "content": "+91"
+        },
+        {
+          "title": "Indonesia",
+          "content": "+62"
+        },
+        {
+          "title": "Iran",
+          "content": "+98"
+        },
+        {
+          "title": "Iraq",
+          "content": "+964"
+        },
+        {
+          "title": "Ireland",
+          "content": "+353"
+        },
+        {
+          "title": "Israel",
+          "content": "+972"
+        },
+        {
+          "title": "Italy",
+          "content": "+39"
+        },
+        {
+          "title": "Ivory Coast",
+          "content": "+225"
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "children": [
+        {
+          "title": "Jamaica",
+          "content": "+1876"
+        },
+        {
+          "title": "Japan",
+          "content": "+81"
+        },
+        {
+          "title": "Jordan",
+          "content": "+962"
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "children": [
+        {
+          "title": "Kazakhstan",
+          "content": "+7"
+        },
+        {
+          "title": "Kenya",
+          "content": "+254"
+        },
+        {
+          "title": "Kiribati",
+          "content": "+686"
+        },
+        {
+          "title": "Korea Democratic Rep.",
+          "content": "+850"
+        },
+        {
+          "title": "Kuwait",
+          "content": "+965"
+        },
+        {
+          "title": "Kyrgyzstan",
+          "content": "+996"
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "children": [
+        {
+          "title": "Laos",
+          "content": "+856"
+        },
+        {
+          "title": "Latvia",
+          "content": "+371"
+        },
+        {
+          "title": "Lebanon",
+          "content": "+961"
+        },
+        {
+          "title": "Lesotho",
+          "content": "+266"
+        },
+        {
+          "title": "Liberia",
+          "content": "+231"
+        },
+        {
+          "title": "Libya",
+          "content": "+218"
+        },
+        {
+          "title": "Liechtenstein",
+          "content": "+423"
+        },
+        {
+          "title": "Lithuania",
+          "content": "+370"
+        },
+        {
+          "title": "Luxembourg",
+          "content": "+352"
+        }
+      ]
+    },
+    {
+      "group": "M",
+      "children": [
+        {
+          "title": "Macau",
+          "content": "+853"
+        },
+        {
+          "title": "Macedonia",
+          "content": "+389"
+        },
+        {
+          "title": "Madagascar",
+          "content": "+261"
+        },
+        {
+          "title": "Malawi",
+          "content": "+265"
+        },
+        {
+          "title": "Malaysia",
+          "content": "+60"
+        },
+        {
+          "title": "Maldives",
+          "content": "+960"
+        },
+        {
+          "title": "Mali",
+          "content": "+223"
+        },
+        {
+          "title": "Malta",
+          "content": "+356"
+        },
+        {
+          "title": "Marshall Islands",
+          "content": "+692"
+        },
+        {
+          "title": "Mauritania",
+          "content": "+222"
+        },
+        {
+          "title": "Mauritius",
+          "content": "+230"
+        },
+        {
+          "title": "Mayotte",
+          "content": "+269"
+        },
+        {
+          "title": "Mexico",
+          "content": "+52"
+        },
+        {
+          "title": "Micronesia",
+          "content": "+691"
+        },
+        {
+          "title": "Moldova",
+          "content": "+373"
+        },
+        {
+          "title": "Monaco",
+          "content": "+377"
+        },
+        {
+          "title": "Mongolia",
+          "content": "+976"
+        },
+        {
+          "title": "Montenegro",
+          "content": "+382"
+        },
+        {
+          "title": "Montserrat",
+          "content": "+1664"
+        },
+        {
+          "title": "Morocco",
+          "content": "+212"
+        },
+        {
+          "title": "Mozambique",
+          "content": "+258"
+        },
+        {
+          "title": "Myanmar",
+          "content": "+95"
+        }
+      ]
+    },
+    {
+      "group": "N",
+      "children": [
+        {
+          "title": "Namibia",
+          "content": "+264"
+        },
+        {
+          "title": "Nauru",
+          "content": "+674"
+        },
+        {
+          "title": "Nepal",
+          "content": "+977"
+        },
+        {
+          "title": "Netherlands",
+          "content": "+31"
+        },
+        {
+          "title": "New Caledonia",
+          "content": "+687"
+        },
+        {
+          "title": "New Zealand",
+          "content": "+64"
+        },
+        {
+          "title": "Nicaragua",
+          "content": "+505"
+        },
+        {
+          "title": "Niger",
+          "content": "+227"
+        },
+        {
+          "title": "Nigeria",
+          "content": "+234"
+        },
+        {
+          "title": "Norway",
+          "content": "+47"
+        }
+      ]
+    },
+    {
+      "group": "O",
+      "children": [
+        {
+          "title": "Oman",
+          "content": "+968"
+        }
+      ]
+    },
+    {
+      "group": "P",
+      "children": [
+        {
+          "title": "Pakistan",
+          "content": "+92"
+        },
+        {
+          "title": "Palau",
+          "content": "+680"
+        },
+        {
+          "title": "Panama",
+          "content": "+507"
+        },
+        {
+          "title": "Papua New Guinea",
+          "content": "+675"
+        },
+        {
+          "title": "Paraguay",
+          "content": "+595"
+        },
+        {
+          "title": "Peru",
+          "content": "+51"
+        },
+        {
+          "title": "Philippines",
+          "content": "+63"
+        },
+        {
+          "title": "Poland",
+          "content": "+48"
+        },
+        {
+          "title": "Portugal",
+          "content": "+351"
+        },
+        {
+          "title": "Puerto Rico",
+          "content": "+1787"
+        }
+      ]
+    },
+    {
+      "group": "Q",
+      "children": [
+        {
+          "title": "Qatar",
+          "content": "+974"
+        }
+      ]
+    },
+    {
+      "group": "R",
+      "children": [
+        {
+          "title": "Republic Of The Congo",
+          "content": "+242"
+        },
+        {
+          "title": "Romania",
+          "content": "+40"
+        },
+        {
+          "title": "Russia",
+          "content": "+7"
+        },
+        {
+          "title": "Rwanda",
+          "content": "+250"
+        },
+        {
+          "title": "Réunion Island",
+          "content": "+262"
+        }
+      ]
+    },
+    {
+      "group": "S",
+      "children": [
+        {
+          "title": "Saint Kitts and Nevis",
+          "content": "+1869"
+        },
+        {
+          "title": "Saint Lucia",
+          "content": "+1758"
+        },
+        {
+          "title": "Saint Pierreand Miquelon",
+          "content": "+508"
+        },
+        {
+          "title": "Saint Vincent and The Grenadines",
+          "content": "+1784"
+        },
+        {
+          "title": "Samoa",
+          "content": "+685"
+        },
+        {
+          "title": "San Marino",
+          "content": "+378"
+        },
+        {
+          "title": "Sao Tome and Principe",
+          "content": "+239"
+        },
+        {
+          "title": "Saudi Arabia",
+          "content": "+966"
+        },
+        {
+          "title": "Senegal",
+          "content": "+221"
+        },
+        {
+          "title": "Serbia",
+          "content": "+381"
+        },
+        {
+          "title": "Seychelles",
+          "content": "+248"
+        },
+        {
+          "title": "Sierra Leone",
+          "content": "+232"
+        },
+        {
+          "title": "Singapore",
+          "content": "+65"
+        },
+        {
+          "title": "Slovakia",
+          "content": "+421"
+        },
+        {
+          "title": "Slovenia",
+          "content": "+386"
+        },
+        {
+          "title": "Solomon Islands",
+          "content": "+677"
+        },
+        {
+          "title": "Somalia",
+          "content": "+252"
+        },
+        {
+          "title": "South Africa",
+          "content": "+27"
+        },
+        {
+          "title": "South Korea",
+          "content": "+82"
+        },
+        {
+          "title": "Spain",
+          "content": "+34"
+        },
+        {
+          "title": "Sri Lanka",
+          "content": "+94"
+        },
+        {
+          "title": "Sudan",
+          "content": "+249"
+        },
+        {
+          "title": "Suriname",
+          "content": "+597"
+        },
+        {
+          "title": "Swaziland",
+          "content": "+268"
+        },
+        {
+          "title": "Sweden",
+          "content": "+46"
+        },
+        {
+          "title": "Switzerland",
+          "content": "+41"
+        },
+        {
+          "title": "Syria",
+          "content": "+963"
+        }
+      ]
+    },
+    {
+      "group": "T",
+      "children": [
+        {
+          "title": "Taiwan",
+          "content": "+886"
+        },
+        {
+          "title": "Tajikistan",
+          "content": "+992"
+        },
+        {
+          "title": "Tanzania",
+          "content": "+255"
+        },
+        {
+          "title": "Thailand",
+          "content": "+66"
+        },
+        {
+          "title": "Togo",
+          "content": "+228"
+        },
+        {
+          "title": "Tonga",
+          "content": "+676"
+        },
+        {
+          "title": "Trinidadand Tobago",
+          "content": "+1868"
+        },
+        {
+          "title": "Tunisia",
+          "content": "+216"
+        },
+        {
+          "title": "Turkey",
+          "content": "+90"
+        },
+        {
+          "title": "Turkmenistan",
+          "content": "+993"
+        },
+        {
+          "title": "Turksand Caicos Islands",
+          "content": "+1649"
+        }
+      ]
+    },
+    {
+      "group": "U",
+      "children": [
+        {
+          "title": "Uganda",
+          "content": "+256"
+        },
+        {
+          "title": "Ukraine",
+          "content": "+380"
+        },
+        {
+          "title": "United Arab Emirates",
+          "content": "+971"
+        },
+        {
+          "title": "United Kingdom",
+          "content": "+44"
+        },
+        {
+          "title": "United States",
+          "content": "+1"
+        },
+        {
+          "title": "Uruguay",
+          "content": "+598"
+        },
+        {
+          "title": "Uzbekistan",
+          "content": "+998"
+        }
+      ]
+    },
+    {
+      "group": "V",
+      "children": [
+        {
+          "title": "Vanuatu",
+          "content": "+678"
+        },
+        {
+          "title": "Venezuela",
+          "content": "+58"
+        },
+        {
+          "title": "Vietnam",
+          "content": "+84"
+        },
+        {
+          "title": "VirginIslands,British",
+          "content": "+1284"
+        }
+      ]
+    },
+    {
+      "group": "Y",
+      "children": [
+        {
+          "title": "Yemen",
+          "content": "+967"
+        }
+      ]
+    },
+    {
+      "group": "Z",
+      "children": [
+        {
+          "title": "Zambia",
+          "content": "+260"
+        },
+        {
+          "title": "Zimbabwe",
+          "content": "+263"
+        }
+      ]
+    }
+  ]
+}

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LoginModule'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of LoginModule.'
+  s.version          = '1.0'
+  s.summary          = 'kit login code index'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+kit  login moduel code repo there has code that  you can use and test thank you
                        DESC
 
   s.homepage         = 'https://github.com/anan131435/LoginModule'
@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/anan131435/LoginModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'LoginModule/Classes/**/*'
   
@@ -38,5 +38,9 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'SnapKit', '~> 5.0.0'
+   s.dependency 'Kingfisher'
+   s.dependency 'SVProgressHUD'
+   s.dependency 'Alamofire', '5.2.1'
+   s.dependency 'YYKit'
 end
